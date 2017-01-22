@@ -1,0 +1,47 @@
+.body-height {
+	height: 1500px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar {
+	background-color: #61122f;
+}
+
+.navbar-brand p { /* Food LLC */
+  color: #ffffff;
+}
+
+#collapsable-nav {
+	clear: both;
+}
+
+.menu_item {
+	background-color: BlanchedAlmond;
+}
+
+p.header_menu_item {
+	font-weight: bolder;
+  	font-size: 1.5em;
+  	padding: 5px;
+  	padding-top: 10px;
+}
+
+.menu_text {
+	padding:10px; 
+	padding-top: 0;
+	font-weight: bold;
+}
+
+.header_menu{
+	margin-bottom: 20px;
+}
+
+#col-menu-item{
+	font-weight: bolder;
+  	font-size: 1.2em;
+  	padding: 10px;
+  	color: #ffffff;
+}
